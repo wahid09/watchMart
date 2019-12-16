@@ -26,6 +26,7 @@
                         <li><a href="{{route('cart.index')}}">Cart</a></li>
                         <li><a href="{{route('wishlist.index')}}">Wishlist</a></li>
                         <li><a href="{{route('checkout.index')}}">Checkout</a></li>
+                        <li><a href="{{ route('login') }}"><i class="fa fa-user"></i>  login</a></li>
                     </ul>
                 </div>
             </div>
